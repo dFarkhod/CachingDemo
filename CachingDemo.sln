@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualDars.CachingDemo", "VirtualDars.CachingDemo.csproj", "{BBDCC8EF-FFAF-4A0C-807E-1D2FD950CB22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDCC8EF-FFAF-4A0C-807E-1D2FD950CB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDCC8EF-FFAF-4A0C-807E-1D2FD950CB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDCC8EF-FFAF-4A0C-807E-1D2FD950CB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDCC8EF-FFAF-4A0C-807E-1D2FD950CB22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9DA25F1-4EB1-4FBD-976E-7B2A97E84F2A}
+	EndGlobalSection
+EndGlobal
