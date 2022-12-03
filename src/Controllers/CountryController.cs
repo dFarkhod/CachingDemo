@@ -14,7 +14,6 @@ namespace VirtualDars.CachingDemo
             this._countryService = countryService;
         }
 
-        // GET: api/<CountryController>  
         [HttpGet]
         public async Task<IActionResult> GetCountries()
         {
